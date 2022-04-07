@@ -1,0 +1,25 @@
+header {
+  background-color: transparent; /*rgba(34, 218, 202, 0.822); */
+  color: rgb(204, 166, 240);
+}
+body {
+  background: linear-gradient(to right, rgb(0, 0, 70), rgb(28, 181, 224));
+  font-family: "Press Start 2P", cursive !important;
+}
+
+.card {
+  background-color: white;
+}
+.row {
+  height: 15vh;
+  margin-bottom: 3rem;
+}
+
+img {
+  object-fit: fill;
+}
+header h1,
+h2,
+p {
+  color: white;
+}
